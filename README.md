@@ -1,6 +1,12 @@
 three.js
 ========
 
+# Fork with memory leak fix from: https://github.com/mrdoob/three.js/pull/18411
+
+## Can be deleted once that PR is merged
+
+---
+
 [![NPM package][npm]][npm-url]
 [![Build Size][build-size]][build-size-url]
 [![Build Status][build-status]][build-status-url]
