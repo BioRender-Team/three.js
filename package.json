@@ -1,5 +1,5 @@
 {
-  "name": "@biorender-team/three",
+  "name": "three",
   "version": "0.112.1",
   "description": "JavaScript 3D library",
   "main": "build/three.js",
@@ -7,7 +7,7 @@
   "types": "src/Three.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BioRender-Team/three.js"
+    "url": "https://github.com/mrdoob/three.js"
   },
   "files": [
     "build/three.js",
@@ -21,9 +21,6 @@
     "README.md",
     "src"
   ],
-  "publishConfig": {
-    "@biorender-team:registry": "https://npm.pkg.github.com"
-  },
   "directories": {
     "doc": "docs",
     "example": "examples",
